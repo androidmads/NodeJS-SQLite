@@ -1,0 +1,11 @@
+{
+  "name": "nodejs-sqlite3",
+  "version": "1.0.0",
+  "dependencies": {
+    "sqlite3": "^ 4.0.0"
+  },
+  "author": {
+    "name": "Mushtaq",
+    "email": "mushtaq12121993@outlook.com"
+  }
+}
